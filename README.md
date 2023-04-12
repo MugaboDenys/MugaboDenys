@@ -14,5 +14,5 @@ I'm a motivated individual who's eager to gain knowledge, expand my skill set an
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugabodenys&hide_progress=false&theme=dark&layout=compact&langs_count=6&exclude_repo=VubaVuba,Amazon-clone,facebook,MicrosoftHomePageClonee,facebookClone,Gym-git-exercise-clone,Sopra-Steria-Clone,Freebies-Landingpage,Medical-core" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugabodenys&hide_progress=false&theme=dark&layout=compact&langs_count=6&exclude_repo=VubaVuba,Amazon-clone,facebook,MicrosoftHomePageClonee,facebookClone,Gym-git-exercise-clone,Sopra-Steria-Clone" />
 </a>
