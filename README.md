@@ -9,11 +9,10 @@ I'm a motivated individual who's eager to gain knowledge, expand my skill set an
 
 ### Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mugabodenys&hide=stars&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mugabodenys&hide_progress=false&theme=dark&layout=compact&langs_count=6&exclude_repo=VubaVuba,Amazon-clone,facebook,MicrosoftHomePageClonee,facebookClone)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mugabodenys&hide=stars&count_private=true&show_icons=true&theme=transparent" />
+</a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mugabodenys" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugabodenys&hide_progress=false&theme=dark&layout=compact&langs_count=6&exclude_repo=VubaVuba,Amazon-clone,facebook,MicrosoftHomePageClonee,facebookClone" />
 </a>
