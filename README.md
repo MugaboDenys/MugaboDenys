@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi👋 there! Mugabo Denys here 😉 
+
+### About Me
+
+I'm a motivated individual who's eager to gain knowledge, expand my skill set and take on new challenges in the tech world. When I'm not coding or gaming, you can find me taking relaxing walks while listening to my favorite tunes 😌
 
 <!--
 **MugaboDenys/MugaboDenys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
